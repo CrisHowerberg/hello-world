@@ -1,3 +1,3 @@
 # hello-world
 
-This is file craeted by good boy ! :)
+This is file created by good boy ! :)
