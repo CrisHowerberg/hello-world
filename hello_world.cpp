@@ -2,5 +2,5 @@
 
 int main()
 {
-    std::cout << "hello_git+" << std::endl;
+    std::cout << "true_testing" << std::endl;
 }
